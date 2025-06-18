@@ -26,7 +26,7 @@ const NutritionForm = () => {
         {
           headers: {
             "Content-Type": "application/json",
-            Authorization: "Bearer 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",
+            Authorization: "Bearer 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",
           },
         }
       );
